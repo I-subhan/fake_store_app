@@ -1,16 +1,38 @@
 # fake_store_app
 
-A new Flutter project.
+A Flutter e-commerce demo app for learning and testing purposes. Users can browse products, view product details, add items to the cart, and simulate checkout.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📦 Features
 
-A few resources to get you started if this is your first Flutter project:
+- Product listing with images, titles, and prices
+- Product detail screen with description and quantity selector
+- Add products to cart
+- Cart screen:
+    - View cart items
+    - Increase/decrease quantity
+    - Remove items
+    - View subtotal, tax, shipping, and total
+- Checkout simulation (clears cart and shows confirmation)
+- Continue shopping button navigates back to product list
+- Snackbars for actions (item added, removed, checkout success)
+- Error handling for image loading
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Flutter SDK installed ([Installation guide](https://flutter.dev/docs/get-started/install))
+- Dart >= 3.0
+- Android Studio or VS Code
+- Git
+
+### Installation
+
+1. Clone the repo:
+
+```bash
+git clone https://github.com/I-subhan/fake_store_app.git
