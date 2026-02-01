@@ -36,3 +36,22 @@ A Flutter e-commerce demo app for learning and testing purposes. Users can brows
 
 ```bash
 git clone https://github.com/I-subhan/fake_store_app.git
+
+## 📸 Screenshots
+
+### Product List
+![Product List](screenshots/product_list.jpeg)
+
+### Product Detail
+![Product Detail](screenshots/product_detail.jpeg)
+
+### Profile Screen
+![Profile](screenshots/profile.jpeg)
+
+## 📸 Screenshots
+
+<p align="center">
+  <img src="screenshots/product_list.jpeg" width="250"/>
+  <img src="screenshots/product_detail.jpeg" width="250"/>
+  <img src="screenshots/profile.jpeg" width="250"/>
+</p>
